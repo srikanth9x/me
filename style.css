@@ -52,7 +52,7 @@ nav {
   text-align: center;
 } 
 
-#title h2, #to-be-continued h2{
+#title p, #to-be-continued h2{
   margin-bottom: auto;
 }
 

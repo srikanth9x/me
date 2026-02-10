@@ -77,6 +77,7 @@ nav {
   display: flex;
   justify-content: start;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 
@@ -116,7 +117,7 @@ nav {
   padding: 0.5rem;
   border: 1px solid var(--border);
   border-top: 1px solid var(--highlight);
-  border-radius: 1.5rem;
+  border-radius: 0.5rem;
   user-select: none;
   cursor: pointer;
 }

@@ -29,7 +29,7 @@ body {
 
 #page {
   width: 100%;
-  max-width: 38rem;
+ /* max-width: 48rem; */
   min-width: 15.625rem;
   background: var(--bg-dark);
   border: var(--text) solid 0.125rem;
@@ -283,6 +283,11 @@ main {
   align-items: center;
 }
 
+.pIcon {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
 .pName :hover {
   color: var(--text);
 }
